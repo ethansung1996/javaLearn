@@ -8,4 +8,5 @@ out
 gen
 
 
-/javaNewFeatures/target/
+/javaNewFeatures/target/**
+/poi4excel/target/**
